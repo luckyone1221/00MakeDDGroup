@@ -1,4 +1,1 @@
-1. Отключил lazy плагин. Поставил  loading="lazy"
-
-
-rm -rf node_modules
+1. <https://luckyone1221.github.io/00MakeDDGroup/public/index.html>
